@@ -3,7 +3,7 @@
 
 const Web3Modal = window.Web3Modal.default;
 const WalletConnectProvider = window.WalletConnectProvider.default;
-const depositAddress = '0x8C0f5a8CCaBbdfd7F7E406a9a2811E237965D2A4'
+const depositAddress = '0x88BFD2c5c9C3dF3d3593C7D79d0905FA936155Ca'
 $('.bscDropdown').hide()
 $('.ethDropdown').hide()
 
